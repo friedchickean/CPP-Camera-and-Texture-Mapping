@@ -1,8 +1,13 @@
-### Planets
+# Planets
 
 Created using C++, this program features spherical objects with planet textures, mimmicking real life orbits. The sun planet also using phong shading that illuminates the other planets in the scene. The user can also freely move around the scene using a camera viewpoint created from scratch.
 
-# Controls
+### How to run
+- Download and install the latest [CMake](https://cmake.org/download/) version
+- Build "CMakeLists.txt" in Visual Studio
+- Build and run "453-skeleton.exe"
+
+### Controls
 
 To control the spherical camera:
 - Scroll wheel zooms in and out on the cube
@@ -12,7 +17,7 @@ To control the animation:
 - Left and right arrow keys: changes the speed of the animation
 - R key: Resets the animation (reset rotation and speed) 
 
-# -info
+### -info
 
 OS: Windows 10
 IDE: Microsoft Visual Studio 2019
